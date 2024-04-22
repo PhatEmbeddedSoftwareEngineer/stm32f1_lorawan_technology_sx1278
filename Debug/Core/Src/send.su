@@ -1,0 +1,8 @@
+../Core/Src/send.c:3:6:initUART1	4	static
+../Core/Src/send.c:12:6:SetSystem72Mhz	4	static
+../Core/Src/send.c:52:6:usart1_sendByte	16	static
+../Core/Src/send.c:60:6:SendKyTu	24	static
+../Core/Src/send.c:72:6:sendNumberAll	40	static
+../Core/Src/send.c:84:6:sendNumber	24	static
+../Core/Src/send.c:94:6:sendNumberAndChu	32	static
+../Core/Src/send.c:104:6:sendFloatAndChu	40	static

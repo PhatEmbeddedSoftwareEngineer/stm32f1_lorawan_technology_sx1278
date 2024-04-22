@@ -1,0 +1,13 @@
+../Core/Inc/mpu6050.h:60:6:mpu6050_read	32	static
+../Core/Inc/mpu6050.h:72:6:mpu6050_getgyro	8	static
+../Core/Inc/mpu6050.h:86:6:mpu6050_getgyrodata	8	static
+../Core/Inc/mpu6050.h:94:6:mpu6050_getaccel	8	static
+../Core/Inc/mpu6050.h:104:6:mpu6050_getacceldata	8	static
+../Core/Inc/mpu6050.h:111:6:mpu6050_write	24	static
+../Core/Inc/mpu6050.h:118:5:mpu6050_getdata	16	static
+../Core/Inc/mpu6050.h:124:6:mpu6050_init	8	static
+../Core/Src/main.c:105:5:main	568	static
+../Core/Src/main.c:211:6:SystemClock_Config	72	static
+../Core/Src/main.c:251:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:285:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:344:6:Error_Handler	4	static,ignoring_inline_asm

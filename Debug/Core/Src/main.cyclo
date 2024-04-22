@@ -1,0 +1,13 @@
+../Core/Inc/mpu6050.h:60:6:mpu6050_read	1
+../Core/Inc/mpu6050.h:72:6:mpu6050_getgyro	1
+../Core/Inc/mpu6050.h:86:6:mpu6050_getgyrodata	1
+../Core/Inc/mpu6050.h:94:6:mpu6050_getaccel	1
+../Core/Inc/mpu6050.h:104:6:mpu6050_getacceldata	1
+../Core/Inc/mpu6050.h:111:6:mpu6050_write	1
+../Core/Inc/mpu6050.h:118:5:mpu6050_getdata	1
+../Core/Inc/mpu6050.h:124:6:mpu6050_init	1
+../Core/Src/main.c:105:5:main	1
+../Core/Src/main.c:211:6:SystemClock_Config	3
+../Core/Src/main.c:251:13:MX_I2C1_Init	2
+../Core/Src/main.c:285:13:MX_SPI2_Init	2
+../Core/Src/main.c:344:6:Error_Handler	1
